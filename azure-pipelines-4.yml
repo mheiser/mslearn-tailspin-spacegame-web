@@ -1,8 +1,0 @@
-
-pool:
-  vmImage: 'ubuntu-16.04'
-
-
-steps:
-- script: echo
-  displayName: 'dotnet build $(buildConfiguration)'
